@@ -1,4 +1,9 @@
+// Problem link
+// https://leetcode.com/problems/roman-to-integer/?envType=problem-list-v2&envId=hash-table
 
+
+// Rule No.1 : Understand what Roman no. is 
+// Firstly map Roman number to 
 
 class Solution {
 public:
